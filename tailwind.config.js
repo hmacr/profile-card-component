@@ -9,6 +9,7 @@ export default {
       'dark-desaturated-blue': 'hsl(229, 23%, 23%)',
       'dark-grayish-blue': 'hsl(227, 10%, 46%)',
       'dark-gray': 'hsl(0, 0%, 59%)',
+      white: 'hsl(0, 0%, 100%)',
     },
     fontFamily: {
       'kumbh-sans': ['Kumbh Sans', ...defaultTheme.fontFamily.sans],
